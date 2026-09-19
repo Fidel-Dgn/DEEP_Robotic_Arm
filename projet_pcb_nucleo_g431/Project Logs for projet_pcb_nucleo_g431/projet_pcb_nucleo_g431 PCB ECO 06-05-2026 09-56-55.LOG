@@ -1,0 +1,18 @@
+Added Component: Designator=Servo2(BARRETTE_3_M_D)
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=Servo3(BARRETTE_3_M_D)
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Component: Designator=Servo4(BARRETTE_3_M_D)
+Add component (AddParameter): Name = "Type"; Value = "M_D_3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Servo2-1
+Added Pin To Net: NetName=+5V_Puissance Pin=Servo2-2
+Added Pin To Net: NetName=PA10 Pin=Servo2-3
+Added Pin To Net: NetName=GND Pin=Servo3-1
+Added Pin To Net: NetName=+5V_Puissance Pin=Servo3-2
+Added Pin To Net: NetName=PB0 Pin=Servo3-3
+Added Pin To Net: NetName=GND Pin=Servo4-1
+Added Pin To Net: NetName=+5V_Puissance Pin=Servo4-2
+Added Pin To Net: NetName=PB4 Pin=Servo4-3
+Added Member To Class: ClassName=projet_pcb_nucleo_g431 Member=Component Servo2 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=projet_pcb_nucleo_g431 Member=Component Servo3 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE
+Added Member To Class: ClassName=projet_pcb_nucleo_g431 Member=Component Servo4 BARRETTE 3 CONTACTS 1 RANGEE MALE DROITE

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=SDgnd0-1
+Removed Pin From Net: NetName=PA5(PB7) Pin=SDgnd0-2
+Removed Pin From Net: NetName=GND Pin=SDgnd1-1
+Removed Pin From Net: NetName=PA6(PA15) Pin=SDgnd1-2
+Removed Pin From Net: NetName=GND Pin=SDgnd2-1
+Removed Pin From Net: NetName=PA7 Pin=SDgnd2-2
+Removed Pin From Net: NetName=GND Pin=SDgnd3-1
+Removed Pin From Net: NetName=SD_CS Pin=SDgnd3-2
+Removed Pin From Net: NetName=PA5(PB7) Pin=TFT1-15
+Removed Pin From Net: NetName=PA6(PA15) Pin=TFT1-16
+Removed Pin From Net: NetName=PA7 Pin=TFT1-17
+Removed Member From Class: ClassName=projet_pcb_nucleo_g431 Member=SDgnd0
+Removed Member From Class: ClassName=projet_pcb_nucleo_g431 Member=SDgnd1
+Removed Member From Class: ClassName=projet_pcb_nucleo_g431 Member=SDgnd2
+Removed Member From Class: ClassName=projet_pcb_nucleo_g431 Member=SDgnd3
+Added Pin To Net: NetName=SD_MISO Pin=TFT1-16
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=TFT1-17
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=SD_SCK Pin=TFT1-15
+Added Net: Name=SD_SCK
